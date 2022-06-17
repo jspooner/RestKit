@@ -4,7 +4,7 @@ GEM
     daemons (1.0.10)
     eventmachine (0.12.10)
     open4 (1.0.1)
-    rack (1.2.1)
+    rack (1.6.13)
     rake (0.8.7)
     shotgun (0.9)
       rack (>= 1.0)
